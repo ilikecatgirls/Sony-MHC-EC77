@@ -1,0 +1,1731 @@
+{
+  "1": {
+    "Name": "Power",
+    "protocol": "Sony",
+    "address": "0x90",
+    "command": "0x69",
+    "rawData": "0x4869",
+    "sendData": {
+      "address": "0x10",
+      "command": "0xF",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "2": {
+    "protocol": "Sony",
+    "address": "0x90",
+    "command": "0x69",
+    "rawData": "0x4869",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x15",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "3": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x69",
+    "rawData": "0x4869",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x15",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "4": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x15",
+    "rawData": "0x4869",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x15",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "5": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x15",
+    "rawData": "0x815",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x15",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "6": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x15",
+    "rawData": "0x815",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x60",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "7": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x60",
+    "rawData": "0x815",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x60",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "8": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x60",
+    "rawData": "0x860",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x60",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "9": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x60",
+    "rawData": "0x860",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x4B",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "10": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x4B",
+    "rawData": "0x860",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x4B",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "11": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x4B",
+    "rawData": "0x84B",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x4B",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "12": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x4B",
+    "rawData": "0x84B",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x62",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "13": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x62",
+    "rawData": "0x84B",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x62",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "14": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x62",
+    "rawData": "0x862",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x62",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "15": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x62",
+    "rawData": "0x862",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x65",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "16": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x65",
+    "rawData": "0x862",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x65",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "17": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x65",
+    "rawData": "0x865",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x65",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "18": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x65",
+    "rawData": "0x865",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2D",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "19": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x65",
+    "rawData": "0x865",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2D",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "20": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x2D",
+    "rawData": "0x865",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2D",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "21": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x2D",
+    "rawData": "0x39D2D",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2D",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "22": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x2D",
+    "rawData": "0x39D2D",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x28",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "23": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x28",
+    "rawData": "0x39D2D",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x28",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "24": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x28",
+    "rawData": "0x39D28",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x28",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "25": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x28",
+    "rawData": "0x39D28",
+    "sendData": {
+      "address": "0x10",
+      "command": "0xE",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "26": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x28",
+    "rawData": "0x39D28",
+    "sendData": {
+      "address": "0x10",
+      "command": "0xE",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "27": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0xE",
+    "rawData": "0x39D28",
+    "sendData": {
+      "address": "0x10",
+      "command": "0xE",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "28": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0xE",
+    "rawData": "0x80E",
+    "sendData": {
+      "address": "0x10",
+      "command": "0xE",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "29": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0xE",
+    "rawData": "0x80E",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x23",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "30": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x23",
+    "rawData": "0x80E",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x23",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "31": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x23",
+    "rawData": "0x823",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x23",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "32": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x23",
+    "rawData": "0x823",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x25",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "33": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x25",
+    "rawData": "0x823",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x25",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "34": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x25",
+    "rawData": "0x825",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x25",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "35": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x25",
+    "rawData": "0x825",
+    "sendData": {
+      "address": "0x10",
+      "command": "0xF",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "36": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0xF",
+    "rawData": "0x825",
+    "sendData": {
+      "address": "0x10",
+      "command": "0xF",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "37": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0xF",
+    "rawData": "0x80F",
+    "sendData": {
+      "address": "0x10",
+      "command": "0xF",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "38": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0xF",
+    "rawData": "0x80F",
+    "sendData": {
+      "address": "0x90",
+      "command": "0x69",
+      "repeat": 2,
+      "bits": 15
+    }
+  },
+  "39": {
+    "protocol": "Sony",
+    "address": "0x90",
+    "command": "0xF",
+    "rawData": "0x80F",
+    "sendData": {
+      "address": "0x90",
+      "command": "0x69",
+      "repeat": 2,
+      "bits": 15
+    }
+  },
+  "40": {
+    "protocol": "Sony",
+    "address": "0x90",
+    "command": "0x69",
+    "rawData": "0x80F",
+    "sendData": {
+      "address": "0x90",
+      "command": "0x69",
+      "repeat": 2,
+      "bits": 15
+    }
+  },
+  "41": {
+    "protocol": "Sony",
+    "address": "0x90",
+    "command": "0x69",
+    "rawData": "0x4869",
+    "sendData": {
+      "address": "0x90",
+      "command": "0x69",
+      "repeat": 2,
+      "bits": 15
+    }
+  },
+  "42": {
+    "protocol": "Sony",
+    "address": "0x90",
+    "command": "0x69",
+    "rawData": "0x4869",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x34",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "43": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x69",
+    "rawData": "0x4869",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x34",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "44": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x34",
+    "rawData": "0x4869",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x34",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "45": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x34",
+    "rawData": "0x39D34",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x34",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "46": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x34",
+    "rawData": "0x39D34",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x33",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "47": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x33",
+    "rawData": "0x39D34",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x33",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "48": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x33",
+    "rawData": "0x39D33",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x33",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "49": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x33",
+    "rawData": "0x39D33",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x31",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "50": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x31",
+    "rawData": "0x39D33",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x31",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "51": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x31",
+    "rawData": "0x39D31",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x31",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "52": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x31",
+    "rawData": "0x39D31",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x30",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "53": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x30",
+    "rawData": "0x39D31",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x30",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "54": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x30",
+    "rawData": "0x39D30",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x30",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "55": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x30",
+    "rawData": "0x39D30",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x32",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "56": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x32",
+    "rawData": "0x39D30",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x32",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "57": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x32",
+    "rawData": "0x39D32",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x32",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "58": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x32",
+    "rawData": "0x39D32",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x39",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "59": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x39",
+    "rawData": "0x39D32",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x39",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "60": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x39",
+    "rawData": "0x39D39",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x39",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "61": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x39",
+    "rawData": "0x39D39",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x38",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "62": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x38",
+    "rawData": "0x39D39",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x38",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "63": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x38",
+    "rawData": "0x39D38",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x38",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "64": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x38",
+    "rawData": "0x39D38",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x7C",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "65": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x7C",
+    "rawData": "0x39D38",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x7C",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "66": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x7C",
+    "rawData": "0x39D7C",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x7C",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "67": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x7C",
+    "rawData": "0x39D7C",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x3E",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "68": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x3E",
+    "rawData": "0x39D7C",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x3E",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "69": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x3E",
+    "rawData": "0x39D3E",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x3E",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "70": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x3E",
+    "rawData": "0x39D3E",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2F",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "71": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x2F",
+    "rawData": "0x39D3E",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2F",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "72": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x2F",
+    "rawData": "0x39D2F",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2F",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "73": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x2F",
+    "rawData": "0x39D2F",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x13",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "74": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x2F",
+    "rawData": "0x39D2F",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x13",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "75": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x13",
+    "rawData": "0x39D2F",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x13",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "76": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x13",
+    "rawData": "0x813",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x13",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "77": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x13",
+    "rawData": "0x813",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x12",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "78": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x12",
+    "rawData": "0x813",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x12",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "79": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x12",
+    "rawData": "0x812",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x12",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "80": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x12",
+    "rawData": "0x812",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0xF",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "81": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x12",
+    "rawData": "0x812",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0xF",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "82": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0xF",
+    "rawData": "0x812",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0xF",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "83": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0xF",
+    "rawData": "0x39D0F",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0xF",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "84": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0xF",
+    "rawData": "0x39D0F",
+    "sendData": {
+      "address": "0x90",
+      "command": "0x63",
+      "repeat": 2,
+      "bits": 15
+    }
+  },
+  "85": {
+    "protocol": "Sony",
+    "address": "0x90",
+    "command": "0xF",
+    "rawData": "0x39D0F",
+    "sendData": {
+      "address": "0x90",
+      "command": "0x63",
+      "repeat": 2,
+      "bits": 15
+    }
+  },
+  "86": {
+    "protocol": "Sony",
+    "address": "0x90",
+    "command": "0x63",
+    "rawData": "0x39D0F",
+    "sendData": {
+      "address": "0x90",
+      "command": "0x63",
+      "repeat": 2,
+      "bits": 15
+    }
+  },
+  "87": {
+    "protocol": "Sony",
+    "address": "0x90",
+    "command": "0x63",
+    "rawData": "0x4863",
+    "sendData": {
+      "address": "0x90",
+      "command": "0x63",
+      "repeat": 2,
+      "bits": 15
+    }
+  },
+  "88": {
+    "protocol": "Sony",
+    "address": "0x90",
+    "command": "0x63",
+    "rawData": "0x4863",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2E",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "89": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x63",
+    "rawData": "0x4863",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2E",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "90": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x2E",
+    "rawData": "0x4863",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2E",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "91": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x2E",
+    "rawData": "0x39D2E",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2E",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "92": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x2E",
+    "rawData": "0x39D2E",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x15",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "93": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x2E",
+    "rawData": "0x39D2E",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x15",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "94": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x15",
+    "rawData": "0x39D2E",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x15",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "95": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x60",
+    "rawData": "0x860",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x65",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "96": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x65",
+    "rawData": "0x860",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x65",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "97": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x65",
+    "rawData": "0x865",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x4B",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "98": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x4B",
+    "rawData": "0x865",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x4B",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "99": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x4B",
+    "rawData": "0x84B",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x65",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "100": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x65",
+    "rawData": "0x84B",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x65",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "101": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x65",
+    "rawData": "0x865",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x62",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "102": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x62",
+    "rawData": "0x865",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x62",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "103": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x62",
+    "rawData": "0x862",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x4B",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "104": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x4B",
+    "rawData": "0x862",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x4B",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "105": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x28",
+    "rawData": "0x39D28",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x39",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "106": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x39",
+    "rawData": "0x39D28",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x39",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "107": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x38",
+    "rawData": "0x39D39",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x39",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "108": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x38",
+    "rawData": "0x39D38",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x39",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "109": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x38",
+    "rawData": "0x39D38",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x34",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "110": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x34",
+    "rawData": "0x39D38",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x34",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "111": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x34",
+    "rawData": "0x39D34",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x7C",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "112": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x7C",
+    "rawData": "0x39D34",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x7C",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "113": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x12",
+    "rawData": "0x812",
+    "sendData": {
+      "address": "0x90",
+      "command": "0x63",
+      "repeat": 2,
+      "bits": 15
+    }
+  },
+  "114": {
+    "protocol": "Sony",
+    "address": "0x90",
+    "command": "0x12",
+    "rawData": "0x812",
+    "sendData": {
+      "address": "0x90",
+      "command": "0x63",
+      "repeat": 2,
+      "bits": 15
+    }
+  },
+  "115": {
+    "protocol": "Sony",
+    "address": "0x90",
+    "command": "0x63",
+    "rawData": "0x812",
+    "sendData": {
+      "address": "0x90",
+      "command": "0x63",
+      "repeat": 2,
+      "bits": 15
+    }
+  },
+  "116": {
+    "protocol": "Sony",
+    "address": "0x90",
+    "command": "0x63",
+    "rawData": "0x4863",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0xF",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "117": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x63",
+    "rawData": "0x4863",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0xF",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "118": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0xF",
+    "rawData": "0x4863",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0xF",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "119": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0xF",
+    "rawData": "0x39D0F",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2E",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "120": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x2E",
+    "rawData": "0x39D0F",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2E",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "121": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x2E",
+    "rawData": "0x39D2E",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x32",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "122": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x32",
+    "rawData": "0x39D2E",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x32",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "123": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x32",
+    "rawData": "0x39D32",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x30",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "124": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x30",
+    "rawData": "0x39D32",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x30",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "125": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x30",
+    "rawData": "0x39D30",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x31",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "126": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x31",
+    "rawData": "0x39D30",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x31",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "127": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x31",
+    "rawData": "0x39D31",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x33",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "128": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x33",
+    "rawData": "0x39D31",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x33",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "129": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x33",
+    "rawData": "0x39D33",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x25",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "130": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x33",
+    "rawData": "0x39D33",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x25",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "131": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x25",
+    "rawData": "0x39D33",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x25",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "132": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x25",
+    "rawData": "0x825",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x23",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "133": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x23",
+    "rawData": "0x825",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x23",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "134": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x23",
+    "rawData": "0x823",
+    "sendData": {
+      "address": "0x10",
+      "command": "0xF",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "135": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0xF",
+    "rawData": "0x823",
+    "sendData": {
+      "address": "0x10",
+      "command": "0xF",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "136": {
+    "protocol": "Sony",
+    "address": "0x90",
+    "command": "0x69",
+    "rawData": "0x4869",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2D",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "137": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x69",
+    "rawData": "0x4869",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2D",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "138": {
+    "protocol": "Sony",
+    "address": "0x73A",
+    "command": "0x2D",
+    "rawData": "0x4869",
+    "sendData": {
+      "address": "0x73A",
+      "command": "0x2D",
+      "repeat": 2,
+      "bits": 20
+    }
+  },
+  "139": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0xE",
+    "rawData": "0x80E",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x4B",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "140": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x4B",
+    "rawData": "0x80E",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x4B",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "141": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x65",
+    "rawData": "0x865",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x60",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "142": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x60",
+    "rawData": "0x865",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x60",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "143": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x60",
+    "rawData": "0x860",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x15",
+      "repeat": 2,
+      "bits": 12
+    }
+  },
+  "144": {
+    "protocol": "Sony",
+    "address": "0x10",
+    "command": "0x15",
+    "rawData": "0x860",
+    "sendData": {
+      "address": "0x10",
+      "command": "0x15",
+      "repeat": 2,
+      "bits": 12
+    }
+  }
+}
